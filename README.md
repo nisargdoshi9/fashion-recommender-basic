@@ -3,7 +3,7 @@
 ## Application demo
 [fashion_recommender_demo.webm](https://github.com/nisargdoshi9/fashion-recommender-basic/assets/80143685/450e8f55-17c7-4140-96a3-15de914c9b45)
 
-<video src='https://youtu.be/s1Lb-SlCl6w' width=180/>
+<video src='https://youtu.be/s1Lb-SlCl6w' width=180/></video>
 
 ## Details about the files:
 *code.ipynb: A playground notebook for all the code where each code snippet can be ran individually and be understood
