@@ -1,8 +1,7 @@
 # Smart Fashion Recommender using Nearest Neighbours and ResNet50
 
 ## Application demo
-[fashion_recommender_demo.webm]
-(https://github.com/nisargdoshi9/fashion-recommender-basic/assets/80143685/450e8f55-17c7-4140-96a3-15de914c9b45)
+[fashion_recommender_demo.webm](https://github.com/nisargdoshi9/fashion-recommender-basic/assets/80143685/450e8f55-17c7-4140-96a3-15de914c9b45)
 https://youtu.be/s1Lb-SlCl6w
 
 ## Details about the files:
