@@ -72,7 +72,9 @@ if uploaded_file is not None:
         st.subheader('Similar Products')
         cols = st.columns(5)
         for i in range(len(indices)):
-            cols[i].image(Image.open(filenames[indices[i]]))
+            img = Image.open(filenames[indices[i]])
+            resized_img = img.resize((200,300))
+            cols[i].image(resized_img, use_column_width=True)
     else:
         st.warning('Some error occured in file upload. Please try again!')
     
